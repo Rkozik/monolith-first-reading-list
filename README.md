@@ -5,9 +5,9 @@
 ### eBooks
 
 ### Articles
-* [MonolithFist by Martin Fowler](https://martinfowler.com/bliki/MonolithFirst.html)
-* [Microservices by Martin Fowler](https://martinfowler.com/articles/microservices.html)
-* [StranglerApplication by Martin Fowler](https://www.martinfowler.com/bliki/StranglerApplication.html)
+* [MonolithFist](https://martinfowler.com/bliki/MonolithFirst.html) (Martin Fowler)
+* [Microservices](https://martinfowler.com/articles/microservices.html) (Martin Fowler)
+* [StranglerApplication](https://www.martinfowler.com/bliki/StranglerApplication.html) (Martin Fowler)
 * [Apply the Strangler Application pattern to microservices applications](https://developer.ibm.com/articles/cl-strangler-application-pattern-microservices-apps-trs/) (IBM)
 
 ### Associated Jargon

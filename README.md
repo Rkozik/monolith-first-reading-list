@@ -24,6 +24,9 @@
 * Asset Capture
 * Content-based Router
 * Session Handler
+* Micro-framework
+* Containerization
+* Microkernel
 
 ### Associated Technologies
 

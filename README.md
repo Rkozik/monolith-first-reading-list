@@ -14,7 +14,7 @@
 * [Apply the Strangler Application pattern to microservices applications](https://developer.ibm.com/articles/cl-strangler-application-pattern-microservices-apps-trs/) (IBM)
 * [The Twelve-Factor App](https://12factor.net/) (Heroku)
 
-### Research Papers
+### Papers
 * [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf) (ThoughtWorks)
 
 ### Associated Jargon

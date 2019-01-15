@@ -3,6 +3,8 @@
 ### Books
 
 ### eBooks
+* [The Microservices Reference Architecture](https://www.nginx.com/blog/microservices-reference-architecture-free-ebook-nginx/) (Nginx)
+* [The Twelve-Factor App](https://12factor.net/)
 
 ### Articles
 * [MonolithFist](https://martinfowler.com/bliki/MonolithFirst.html) (Martin Fowler)

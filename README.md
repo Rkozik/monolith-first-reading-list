@@ -28,3 +28,5 @@
 
 * Memcache
 * Redis
+* Docker
+* Kubernetes

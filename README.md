@@ -10,3 +10,9 @@
 * Event Interception
 * Asset Capture
 * Content-based Router
+* Session Handler
+
+### Associated Technologies
+
+* Memcache
+* Redis

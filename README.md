@@ -1,6 +1,5 @@
-![](https://i.imgur.com/eDRetAa.png)
-
 # Monolith First Reading List
+![](https://i.imgur.com/eDRetAa.png)
 
 ### Books
 * [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) (O'reilly) - 280 pages

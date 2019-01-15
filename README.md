@@ -15,7 +15,7 @@
 * [The Twelve-Factor App](https://12factor.net/) (Heroku)
 
 ### Papers
-* [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf) (ThoughtWorks)
+* [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf) (ThoughtWorks) - 7 pages
 
 ### Associated Jargon
 * Asset Capture

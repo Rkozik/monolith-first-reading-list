@@ -2,7 +2,6 @@
 
 ### Books
 * [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) (O'reilly) - 280 pages
-* [Building Evolutionary Architectures: Support Constant Change](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360/ref=pd_sim_14_5/144-4798982-4757056) (O'reilly) - 190 pages
 
 ### eBooks
 * [The Microservices Reference Architecture](https://www.nginx.com/blog/microservices-reference-architecture-free-ebook-nginx/) (Nginx) - 53 pages

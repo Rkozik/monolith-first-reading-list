@@ -13,6 +13,9 @@
 * [StranglerApplication](https://www.martinfowler.com/bliki/StranglerApplication.html) (Martin Fowler)
 * [Apply the Strangler Application pattern to microservices applications](https://developer.ibm.com/articles/cl-strangler-application-pattern-microservices-apps-trs/) (IBM)
 
+### Research Papers
+* [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf) (ThoughtWorks)
+
 ### Associated Jargon
 
 * Stranger Application

@@ -1,3 +1,5 @@
+![](https://i.imgur.com/eDRetAa.png)
+
 # Monolith First Reading List
 
 ### Books

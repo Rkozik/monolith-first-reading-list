@@ -18,19 +18,17 @@
 * [An Agile Approach to a Legacy System](http://cdn.pols.co.uk/papers/agile-approach-to-legacy-systems.pdf) (ThoughtWorks)
 
 ### Associated Jargon
-
-* Stranger Application
-* Event Interception
 * Asset Capture
-* Content-based Router
-* Session Handler
-* Micro-framework
 * Containerization
+* Content-based Router
+* Event Interception
+* Micro-framework
 * Micro-kernel
+* Session Handler
+* Stranger Application
 
 ### Associated Technologies
-
-* Memcache
-* Redis
 * Docker
 * Kubernetes
+* Memcache
+* Redis

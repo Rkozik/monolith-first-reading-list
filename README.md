@@ -26,7 +26,7 @@
 * Session Handler
 * Micro-framework
 * Containerization
-* Microkernel
+* Micro-kernel
 
 ### Associated Technologies
 

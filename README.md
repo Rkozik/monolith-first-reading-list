@@ -29,6 +29,6 @@
 * Memcache
 * Redis
 
-### Comanies Using Microservices & Nginx
+### Companies Using Microservices & Nginx
 * Hello Fresh
 * Buzzfeed

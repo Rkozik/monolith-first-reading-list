@@ -28,3 +28,7 @@
 ### Associated Technologies
 * Memcache
 * Redis
+
+### Comanies Using Microservices & Nginx
+* Hello Fresh
+* Buzzfeed

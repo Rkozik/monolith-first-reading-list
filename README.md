@@ -21,6 +21,7 @@
 ### Associated Jargon
 * Asset Capture
 * Content-based Router
+* Distributed Service Mesh
 * Event Interception
 * Session Handler
 * Stranger Application
